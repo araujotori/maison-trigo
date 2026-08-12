@@ -3,7 +3,7 @@
 Site institucional para uma padaria artesanal fictícia, desenvolvido com a proposta de utilizar apenas HTML5 e CSS. O objetivo foi construir um código semanticamente organizado e funcional, incluindo navegação entre seções por âncoras, carrossel de imagens em CSS puro e layout totalmente responsivo.
 
 # Demo
-Link para o site publicado <!-- substitua pelo link do GitHub Pages / Vercel -->
+https://araujotori.github.io/maison-trigo/
 
 # Sobre o projeto
 
